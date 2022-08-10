@@ -1,16 +1,3 @@
-/* body {
-    background-color: black;
-    color: white;
-} */
-
-.container00 {
-    /* display:flex; */
-    top: 250px;
-    height: 200px;
-    position: relative;
-    text-align: center;
-}
-
 .pausado {
     color: red;
 }
